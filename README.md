@@ -1,3 +1,4 @@
+![background](https://github.com/user-attachments/assets/9bda9a0c-2f1d-4644-9e37-ebb696205656)
 I'm a technical problem solver passionate about tool development, workflow automation, and creative pipeline enhancements. With hands-on experience as a Lighting Technical Supervisor in the animation industry, I specialize in building scalable solutions that empower teams and streamline challenging processes.
 
 ### 🚀 What I Do
