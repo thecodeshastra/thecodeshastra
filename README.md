@@ -1,6 +1,7 @@
 ![background](https://github.com/user-attachments/assets/9bda9a0c-2f1d-4644-9e37-ebb696205656)
-Hello! I’m **Mahendra Pawar**, a **Lighting Technical Supervisor** with over 7 years of experience at DNEG, one of the world’s leading visual effects studios.
-I'm a technical problem solver passionate about tool development, workflow automation, and creative pipeline enhancements. I specialize in building scalable solutions that empower teams and streamline challenging processes.
+
+Hello! I’m **Mahendra Pawar**, **Lighting Technical Supervisor** with over 7 years of experience at DNEG, one of the world’s leading visual effects studios.
+Technical problem solver with a strong foundation in tool development and workflow automation. Experienced in designing and deploying Python-based solutions, API integrations, and creative pipeline enhancements that improve efficiency. Constantly seeking innovative ways to automate processes and tackle complex challenges, with a vision to expand into IT and product management, always leveraging technology to deliver impactful results.
 
 ### 🚀 What I Do
 - **Tool Development**:
@@ -16,7 +17,8 @@ I'm a technical problem solver passionate about tool development, workflow autom
 - Building robust systems for the animation, VFX and IT industry
 
 ### 🌱 Goals & Aspirations
-- Expand my expertise from animation into the broader IT sector.
+- Become Pipeline developer and AI product manager.
+- Expand my expertise from animation and VFX into the broader IT sector.
 - Grow into a product manager and developer role, using AI to build smarter solutions and products.
 
 <!---
