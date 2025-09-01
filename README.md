@@ -1,25 +1,23 @@
 ![background](https://github.com/user-attachments/assets/9bda9a0c-2f1d-4644-9e37-ebb696205656)
 
-Hello! I’m **Mahendra Pawar**, **Lighting Technical Supervisor** with over 7 years of experience at DNEG, one of the world’s leading visual effects studios.
-Technical problem solver with a strong foundation in tool development and workflow automation. Experienced in designing and deploying Python-based solutions, API integrations, and creative pipeline enhancements that improve efficiency. Constantly seeking innovative ways to automate processes and tackle complex challenges, with a vision to expand into IT and product management, always leveraging technology to deliver impactful results.
+Hello! I’m **Mahendra Pawar**, **Lighting Technical Supervisor** with over 7 years of experience at DNEG, an aspiring AI product manager with a strong foundation in visual effects and a passion for technical innovation. Early in my career, I worked in creative VFX roles but discovered my true strengths lay in building, optimizing, and managing software solutions. That realization led me to shift from working inside software to working on software—designing tools and streamlining workflows.
 
-### 🚀 What I Do
-- **Tool Development**:
-    - Design and deploy automation tools using Python and APIs for platforms like Houdini/Solaris, making day-to-day work more efficient for artists and technical teams.
-- **Workflow Automation**:
-    - Constantly seek ways to simplify and optimize creative and technical pipelines—reducing manual steps, minimizing errors, and scaling productivity.
-- **Technical Support/Problem-solving**:
-    - Serve as a go-to resource for diagnosing and resolving complex technical issues across active shows and projects, ensuring smooth deliveries and happy teams.
+This shift has fueled my passion for AI and automation to transform business operations. I’m actively learning, tackling challenges, and collaborating with forward-thinking professionals to deliver impactful, user-centered products.
+
+### 🚀 What I do
+- Design and manage AI-driven products that solve real-world problems
+- Build and optimize automation tools to enhance efficiency across workflows
+- Lead cross-functional teams through the full product lifecycle
 
 ### 💡 Current Interests
-- Automating creative and technical workflows
-- Exploring API integrations for next-generation pipeline tools
-- Building robust systems for the animation, VFX and IT industry
+- AI-powered automation and smart integrations
+- API-driven pipeline enhancements
+- Data-driven decision making and product strategy
 
 ### 🌱 Goals & Aspirations
-- Become Pipeline developer and AI product manager.
-- Expand my expertise from animation and VFX into the broader IT sector.
-- Grow into a product manager and developer role, using AI to build smarter solutions and products.
+- Transition into a full-time product management role
+- Develop innovative solutions that drive measurable business impact
+- Grow as a leader who blends technical expertise with strategic vision
 
 <!---
 thecodeshastra/thecodeshastra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
