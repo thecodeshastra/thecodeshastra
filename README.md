@@ -1,8 +1,8 @@
-![background](https://github.com/user-attachments/assets/9bda9a0c-2f1d-4644-9e37-ebb696205656)
+![background](https://github.com/user-attachments/assets/cccc2a19-d601-4597-9fae-d137c13606d5)
 
-Hello! I’m **Mahendra Pawar**, **Lighting Technical Supervisor** with over 7 years of experience at DNEG, an aspiring AI product manager with a strong foundation in visual effects and a passion for technical innovation. Early in my career, I worked in creative VFX roles but discovered my true strengths lay in building, optimizing, and managing software solutions. That realization led me to shift from working inside software to working on software—designing tools and streamlining workflows.
+Hello! I’m **Mahendra Pawar**, **Lighting Technical Supervisor** with over 7 years of experience at DNEG, My professional journey began in the dynamic world of visual effects, where I initially engaged in creative work. However, I soon realised my strengths leaned more toward the technical and managerial sides rather than purely creative tasks. This insight inspired me to transition from working inside software to working on software—focusing on building, optimising, and managing technology solutions.
 
-This shift has fueled my passion for AI and automation to transform business operations. I’m actively learning, tackling challenges, and collaborating with forward-thinking professionals to deliver impactful, user-centered products.
+This shift has fueled my passion for technology and product management, with an emphasis on AI and automation to transform business operations. As an aspiring AI product manager, I am actively learning, embracing challenges, and collaborating with forward-thinking professionals who share my vision for innovation and smart technology integration. I am eager to contribute my unique perspective, blending technical know-how with management enthusiasm, to create meaningful impact in the product space.
 
 ### 🚀 What I do
 - Design and manage AI-driven products that solve real-world problems
