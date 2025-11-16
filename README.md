@@ -1,4 +1,4 @@
-![background](https://github.com/user-attachments/assets/cccc2a19-d601-4597-9fae-d137c13606d5)
+![background](https://github.com/user-attachments/assets/faac2a18-4019-4367-9b4e-31b0a6e3c674)
 
 # Hi there, I'm **Mahendra Pawar** 👋  
 
