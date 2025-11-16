@@ -26,6 +26,8 @@ Started my career in visual effects, quickly recognizing my strengths in technic
 
 ![Static Badge](https://img.shields.io/badge/Pixar%20USD-blue?style=for-the-badge&logo=octopusdeploy&logoColor=white&logoSize=auto)
 
+![Static Badge](https://img.shields.io/badge/MkDocs-blue?style=for-the-badge&logo=materialformkdocs&logoColor=white&logoSize=auto)
+
 ![Static Badge](https://img.shields.io/badge/Notion-blackgrey?style=for-the-badge&logo=notion&logoColor=white&logoSize=auto&color=%23303030)
 ![Static Badge](https://img.shields.io/badge/Coda-red?style=for-the-badge&logo=coda&logoColor=white&logoSize=auto)
 
