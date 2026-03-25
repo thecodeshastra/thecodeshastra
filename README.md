@@ -1,21 +1,30 @@
-![background](https://github.com/user-attachments/assets/faac2a18-4019-4367-9b4e-31b0a6e3c674)
+![background](background.png)
 
-# Hi there, I'm **Mahendra Pawar** 👋  
+# Hi there, I'm **Mahendra Pawar** 👋
+
+**Automation-Focused Python Developer | Workflow & Process Optimization | Building Scalable Systems**
 
 ## 📚 About Me  
 
-Started my career in visual effects, quickly recognizing my strengths in technical problem-solving, automation, and product development.
+I’m currently transitioning into Automation Engineering — focused on solving real-world workflow problems using Python.
 
-- Now transitioning into **AI agent and product development**,
-- I am actively expanding my skills in AI, automation, and software development to build intelligent, domain-specific solutions.
-- Passionate about creating impactful AI-driven products that solve real business challenges, I am continuously learning and evolving to bridge creative insight with technical innovation.
-- My mission is to develop purposeful AI solutions that enhance productivity, simplify complexity, and create new possibilities for individuals and organizations.
+With 8+ years of experience working in fast-paced production environments, I’ve seen how much time is lost in repetitive processes. That’s what pushed me toward automation.
+
+Right now, I’m actively building:
+• Workflow automation tools
+• Data and task automation scripts
+• Backend systems for scalable solutions
+
+My goal is simple:
+Build systems that save time, reduce manual effort, and scale efficiently.
+
+I’m sharing my journey as I learn, build, and move toward becoming a full-time Automation Engineer.
 
 ---
 
 ## 🔗 Connect With Me 👇
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&label=%F0%9F%8C%90&labelColor=blue)](https://www.linkedin.com/in/thecodeshastra/) | [![Static Badge](https://img.shields.io/badge/Email-red?style=plastic&logo=Gmail&logoColor=white)](mailto:mahendrapawar1997@gmail.com)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-lightblue?style=plastic&logo=quantconnect&logoColor=blue)](https://www.linkedin.com/in/thecodeshastra/) | [![Static Badge](https://img.shields.io/badge/Email-red?style=plastic&logo=Gmail&logoColor=white)](mailto:mahendrapawar.dev@gmail.com) | [![Static Badge](https://img.shields.io/badge/Github-darkgrey?style=plastic&logo=Github&logoColor=white)](https://github.com/thecodeshastra) | [![Static Badge](https://img.shields.io/badge/Gitlab-white?style=plastic&logo=Gitlab&logoColor=orange)](https://gitlab.com/thecodeshastra)
 
 ---
 
@@ -24,15 +33,17 @@ Started my career in visual effects, quickly recognizing my strengths in technic
 ### Programming & Tools
 
 ![Static Badge](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python)
-
 ![Static Badge](https://img.shields.io/badge/Linux%20%26%20Bash-grey?style=for-the-badge&logo=Linux&logoColor=black)
-
-![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=Git&logoColor=white) ![Static Badge](https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white) ![Static Badge](https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Pixar%20USD-blue?style=for-the-badge&logo=octopusdeploy&logoColor=white&logoSize=auto)
 
-![Static Badge](https://img.shields.io/badge/MkDocs-blue?style=for-the-badge&logo=materialformkdocs&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=Git&logoColor=white) ![Static Badge](https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white) ![Static Badge](https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+### Documentation
+
+![Static Badge](https://img.shields.io/badge/Docusaurus-darkgreen?style=for-the-badge&logo=docusaurus&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Swagger-bottlegreen?style=for-the-badge&logo=swagger&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/MkDocs-blue?style=for-the-badge&logo=materialformkdocs&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Notion-blackgrey?style=for-the-badge&logo=notion&logoColor=white&logoSize=auto&color=%23303030)
 
 ### Package Managers
@@ -52,12 +63,16 @@ Started my career in visual effects, quickly recognizing my strengths in technic
 
 ## 🎯 Skills Stack
 
-- **Python (Programming Language)**
-- **Git & Version Control**
-- **Automation & Scripting**
-- **Troubleshooting & Debugging**
-- **Linux and bash scripting**
-- **Custom tool development**
+* **Python Programming Language**
+* **Automation and Scripting**
+* **Linux and bash**
+* **Git and Version control**
+* **API integration**
+* **Workflow Automation**
+* **Troubleshooting and debugging**
+* **Technical problem solving**
+* **Custom tool development**
+* **Active learning & Creative problem solving**
 
 ---
 
